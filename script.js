@@ -24,3 +24,5 @@ window.addEventListener('DOMContentLoaded', () => {
 
 // Ajouter un écouteur d'événement pour le bouton
 darkModeToggle.addEventListener('click', toggleDarkMode);
+
+

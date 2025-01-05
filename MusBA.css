@@ -8,6 +8,23 @@ h2{
     font-size: 18px;
 }
 
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+header.dark-mode, footer.dark-mode {
+    background-color: #1e1e1e;
+}
+
+
+h3{
+    color: #000;
+}
+
+h3.dark-mode {
+    color: #ffffff;
+}
 
 
 

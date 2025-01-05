@@ -32,3 +32,15 @@
     z-index: -1;
 }
 
+/* Mode sombre */
+body.dark-mode .vertical-line {
+    border-left: 0.3vw solid #FFFFFF; /* Ligne verticale blanche */
+}
+
+body.dark-mode .custom-line {
+    border-left: 40vw solid #FFFFFF; /* Ligne verticale blanche */
+}
+
+body.dark-mode .custom-line2 {
+    border-left: 40vw solid #FFFFFF; /* Ligne verticale blanche */
+}

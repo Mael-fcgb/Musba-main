@@ -13,6 +13,10 @@
     z-index: 960; /* S'assurer qu'il soit au-dessus des autres éléments */
 }
 
+h3.dark-mode {
+    color: #fff;
+}
+
 .LogoH {
     height: 60px;
 }
@@ -37,6 +41,7 @@
     transition: border-color 0.3s ease;
     font-weight: 700;
 }
+
 
 .dropdownh :focus {
     border-color: #888;
@@ -276,3 +281,4 @@ body {
         
     }
 }
+

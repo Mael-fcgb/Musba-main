@@ -8,6 +8,13 @@
      /* Marges intérieures */
     z-index: 960; /* S'assurer qu'il soit au-dessus des autres éléments */
 }
+
+
+.main-footer.dark-mode {
+    color: #ffffff;
+}
+
+
 .phtxt {
     display: flex; /* Fixe le header en haut de l'écran */
     justify-content:space-between;
@@ -113,9 +120,7 @@
     margin-left: 180px;
     margin-top: -10px;
 }
-h3 , .txt1f , .txt2f {
-    color: black;
-}
+
 .txt1f , .txt2f  {
     font-size: 16px;
 }
